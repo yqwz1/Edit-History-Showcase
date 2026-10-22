@@ -1,0 +1,25 @@
+# Documentation only. Review staged contents and history before any push.
+*
+!/.gitignore
+!/README.md
+!/LICENSE.md
+!/SECURITY.md
+!/docs/
+!/docs/README.md
+!/docs/QuickStart.md
+!/docs/UserGuide.md
+!/docs/Compatibility.md
+!/docs/DataAndPrivacy.md
+!/docs/Troubleshooting.md
+!/docs/Support.md
+!/docs/CHANGELOG.md
+!/.github/
+!/.github/ISSUE_TEMPLATE/
+!/.github/ISSUE_TEMPLATE/bug_report.yml
+!/.github/ISSUE_TEMPLATE/feature_request.yml
+!/.github/ISSUE_TEMPLATE/config.yml
+!/screenshots/
+!/screenshots/README.md
+!/screenshots/history-overview.png
+!/screenshots/component-history.png
+!/screenshots/restore-value.png

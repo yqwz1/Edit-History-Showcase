@@ -1,0 +1,24 @@
+name: Feature request
+description: Describe a workflow Edit History could improve.
+title: "[Request] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What workflow is blocked or difficult?
+      description: Explain the task and impact without private project data.
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Current workaround
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Smallest useful improvement
+      description: Requests are feedback, not delivery commitments.
+    validations:
+      required: true
