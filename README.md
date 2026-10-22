@@ -2,7 +2,7 @@
 
 ### Find an earlier Inspector value. Restore the field you need.
 
-**A paid Unity Editor tool · In development · Unity 6000.3.9f1**
+** In development · Unity 6000.3.9f1**
 
 Edit History records serialized Inspector changes in Edit Mode so you can search a field's history, compare its values, and restore a supported value through Unity's Undo/Redo workflow.
 
@@ -29,13 +29,7 @@ Restore currently covers component Boolean, integer, float/double, string, ordin
 
 ![The current pre-release component history controls in the Unity Inspector](screenshots/component-history.png)
 
-*The current component integration opens history scoped to that component. Counts refer to recorded edits.*
 
-![A recorded field value restored in the actual Edit History window](screenshots/restore-value.png)
-
-*A restore changes the current field value and becomes another recorded edit.*
-
-All screenshots are captured from the actual tool running in Unity with a small demonstration scene. No generated interface images are used. See [screenshot provenance](screenshots/README.md).
 
 ## Documentation
 
