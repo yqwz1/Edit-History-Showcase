@@ -2,7 +2,7 @@
 
 ### Find an earlier Inspector value. Restore the field you need.
 
-** In development · Unity 6000.3.9f1**
+In development · Unity 6000.3.9f1
 
 Edit History records serialized Inspector changes in Edit Mode so you can search a field's history, compare its values, and restore a supported value through Unity's Undo/Redo workflow.
 
